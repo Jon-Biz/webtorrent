@@ -1,7 +1,7 @@
 {
   "name": "webtorrent",
   "description": "Streaming torrent client",
-  "version": "0.103.1-arc-7",
+  "version": "0.103.1-arc-8",
   "author": {
     "name": "WebTorrent, LLC",
     "email": "feross@webtorrent.io",
@@ -60,7 +60,7 @@
     "stream-to-blob": "^1.0.0",
     "stream-to-blob-url": "^2.1.0",
     "stream-with-known-length-to-buffer": "^1.0.0",
-    "torrent-discovery": "git+https://github.com/guanzo/torrent-discovery.git#v9.1.1-arc-2",
+    "torrent-discovery": "git+https://github.com/guanzo/torrent-discovery.git#v9.1.1-arc-3",
     "torrent-piece": "^2.0.0",
     "uniq": "^1.0.1",
     "unordered-array-remove": "^1.0.2",
