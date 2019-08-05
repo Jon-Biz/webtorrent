@@ -1,7 +1,7 @@
 {
   "name": "webtorrent",
   "description": "Streaming torrent client",
-  "version": "0.105.0-arc-1",
+  "version": "0.106.0",
   "author": {
     "name": "WebTorrent, LLC",
     "email": "feross@webtorrent.io",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "addr-to-ip-port": "^1.4.2",
-    "bitfield": "^2.0.0",
+    "bitfield": "^3.0.0",
     "bittorrent-dht": "^9.0.0",
     "bittorrent-protocol": "^3.0.0",
     "chunk-store-stream": "^4.0.0",
@@ -57,7 +57,7 @@
     "simple-peer": "^9.0.0",
     "simple-sha1": "^2.0.8",
     "speedometer": "^1.0.0",
-    "stream-to-blob": "^1.0.0",
+    "stream-to-blob": "^2.0.0",
     "stream-to-blob-url": "^2.1.0",
     "stream-with-known-length-to-buffer": "^1.0.0",
     "torrent-discovery": "git+https://github.com/guanzo/torrent-discovery.git#v9.1.1-arc-7",
@@ -74,7 +74,7 @@
     "brfs": "^2.0.0",
     "browserify": "^16.2.3",
     "cross-spawn": "^6.0.3",
-    "electron": "^5.0.4",
+    "electron": "^6.0.0",
     "finalhandler": "^1.0.0",
     "network-address": "^1.1.0",
     "run-series": "^1.1.4",
@@ -84,7 +84,7 @@
     "webtorrent-fixtures": "^1.5.0"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=10"
   },
   "homepage": "https://webtorrent.io",
   "keywords": [
